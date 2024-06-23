@@ -1,0 +1,24 @@
+.debugger {
+  position: fixed;
+  top: 0.3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: lightblue;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  display: flex;
+  gap: 3rem;
+  width: max-content;
+  padding: 0 2rem;
+}
+
+.debugger > * {
+  flex-shrink: 0;
+}
+
+.table-pagination {
+  position: sticky;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(1.5rem);
+}
