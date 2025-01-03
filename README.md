@@ -1,16 +1,12 @@
-### 1. Copy repository
-
-Copy and paste repository in terminal: `https://github.com/davidrepository/medicines-manager-app.git`
+### 1. Clone repository
+`git clone https://github.com/davidrepository/medicines-manager-app.git`
 
 ### 2. Install packages
-
-Run `npm install`
+`npm install`
 
 ### 3. Run project
+`npm start`
 
-Run `npm start`
-
-### 4. Open it
-
-Go to `http://localhost:3000`
+### 4. Open
+`http://localhost:3000`
 
