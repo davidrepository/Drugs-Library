@@ -1,4 +1,4 @@
-### 1. Clone repository
+### 1. Get repository
 `git clone https://github.com/davidrepository/medicines-manager-app.git`
 
 ### 2. Install packages
